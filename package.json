@@ -10,8 +10,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "cypress": "9.0.0",
-    "cypress-file-upload": "5.0.8",
+    "cypress": "9.5.2",
     "faker": "5.5.3",
     "gerador-validador-cpf": "5.0.2"
   }
