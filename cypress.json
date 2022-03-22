@@ -1,4 +1,5 @@
 {
+    "$schema": "https://on.cypress.io/cypress.schema.json",
     "projectId": "h78suo",
     "baseUrl": "https://buger-eats-qa.vercel.app",
     "viewportWidth": 1440,
