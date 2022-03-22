@@ -20,7 +20,7 @@ export default {
                 city_state: "Americana/SP"
             },
             delivery_method: "Moto",
-            cnh: "cnh-digital.jpeg"
+            cnh: "cnh-example.jpg"
         }
     }
 }
