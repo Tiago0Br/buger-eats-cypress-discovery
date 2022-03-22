@@ -1,4 +1,4 @@
-/// <reference types="cypress" />
+/// <reference path='../support/commands.d.ts' />
 import signupFactory from '../factories/SignupFactory'
 
 describe('Signup', () => {
